@@ -42,7 +42,7 @@ RegisterCommand("postalon", function()
 end, false)
 
 RegisterCommand("postaloff", function()
-    SendNUIMessage({ type = "toggleUI", show = true })
+    SendNUIMessage({ type = "toggleUI", show = false })
 end, false)
 
 
