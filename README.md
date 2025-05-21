@@ -16,9 +16,9 @@ It will automatically remove the route when within 100m of the destination
 
 Some Added commands would:
 
-`/postalon` - Toggle postal UI ON
-`/postaloff` - Toggle postal UI OFF
-`/editpostal` - Move the UI Component (press ESC while in edit mode to exit mode)
+- `/postalon` - Toggle postal UI ON
+- `/postaloff` - Toggle postal UI OFF
+- `/editpostal` - Move the UI Component (press ESC while in edit mode to exit mode)
 
 
 ## Development
