@@ -1,0 +1,14 @@
+#postal-container {
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px 15px;
+    color: white;
+    font-size: 18px;
+    border-radius: 6px;
+    font-family: Arial, sans-serif;
+    cursor: move;
+    width: max-content;
+  }
+  
